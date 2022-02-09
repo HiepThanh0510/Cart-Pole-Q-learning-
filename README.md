@@ -5,3 +5,4 @@
 ![](https://i.imgur.com/vfGpdu4.gif)
 3. After using Q - learning Algorithm
 ![](https://i.imgur.com/clBKkEm.gif)
+

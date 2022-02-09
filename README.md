@@ -4,5 +4,6 @@
 2. Before using Q - learning algorithm
 ![](https://i.imgur.com/vfGpdu4.gif)
 3. After using Q - learning algorithm
-![](https://i.imgur.com/HjLEUhJ.gif)
+![](https://i.imgur.com/U7GEZ91.gif)
+
 

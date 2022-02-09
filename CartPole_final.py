@@ -37,18 +37,13 @@ for episode in range(episodes + 1):
         print("Episode: " + str(episode))
 
     while not done: 
-
         if np.random.random() > epsilon:
-
             action = np.argmax(q_table[discrete_state]) # take cordinated action
+       
         else:
-
             action = np.random.randint(0, env.action_space.n) # random action
-
         new_state, reward, done, _ = env.step(action) # step action to get new states, reward, and the 'done' status.
-
         episode_reward += reward # add the reward
-
         new_discrete_state = get_discrete_state(new_state)
 
         if episode % 500 == 0: # render

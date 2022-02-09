@@ -1,1 +1,1 @@
-# Cart-Pole-Q-learning-
+# Cart-Pole(Q-learning)
